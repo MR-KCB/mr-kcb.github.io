@@ -1,0 +1,4 @@
+baseURL = "https://mr-kcb.github.io/"
+languageCode = 'en-us'
+title = "Mr. KCB - let's do it!"
+theme = "hugo-arcana"
