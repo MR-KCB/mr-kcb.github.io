@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mr. KCB - let&#39;s do it!</title>
+    <link>https://mr-kcb.github.io/post/</link>
+    <description>Recent content in Posts on Mr. KCB - let&#39;s do it!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 22:42:16 -0800</lastBuildDate><atom:link href="https://mr-kcb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sistemas Embebidos</title>
+      <link>https://mr-kcb.github.io/post/embedded/</link>
+      <pubDate>Fri, 10 Mar 2023 22:42:16 -0800</pubDate>
+      
+      <guid>https://mr-kcb.github.io/post/embedded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acerca de mi</title>
+      <link>https://mr-kcb.github.io/post/aboutme/</link>
+      <pubDate>Fri, 10 Mar 2023 21:27:07 -0800</pubDate>
+      
+      <guid>https://mr-kcb.github.io/post/aboutme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://mr-kcb.github.io/post/contacto/</link>
+      <pubDate>Fri, 10 Mar 2023 21:20:24 -0800</pubDate>
+      
+      <guid>https://mr-kcb.github.io/post/contacto/</guid>
+      <description>Este es el contacto con los administradores del sitio web.
+Email Teléfono Twitter </description>
+    </item>
+    
+  </channel>
+</rss>
